@@ -25,4 +25,4 @@ Neste projeto foram praticados:
 - Estrutura básica de um programa Python
 
 ### 📌 Versão
-- v1.0 — Primeira versão funcional
+- v1.1 — Código estruturado com funções e boas práticas
