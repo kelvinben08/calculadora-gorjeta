@@ -1,28 +1,28 @@
-# Calculadora de Gorjeta
-- Programa em Python que calcula o valor da gorjeta e o total final de uma conta com base na porcentagem informada pelo usuário.
+# 💰 Calculadora de Gorjeta
+- Aplicação em Python desenvolvida para calcular automaticamente o valor da gorjeta e o total final de uma conta com base na porcentagem informada pelo usuário.
 
-### 📌 Funcionalidades
-- Entrada do valor da conta
-- Entrada da porcentagem da gorjeta
-- Cálculo automático do valor da gorjeta
+---
+
+### 📦 Versão
+- **v1.3**
+
+---
+
+### 🚀 Funcionalidades
+- Entrada de valores com validação
+- Tratamento de erros para dados inválidos
+- Cálculo automático da gorjeta
 - Exibição formatada com duas casas decimais
+- Estrutura organizada com docstrings e type hints
 
-### 🚀 Como executar
-1. Clone este repositório
-2. Abra o projeto em sua IDE ou editor
-3. Execute o arquivo main.py
-4. Informe os valores solicitados no terminal
+---
 
-### 🛠 Tecnologias utilizadas
-- Python 3
+### ▶️ Como Executar
+1. Certifique-se de ter o Python 3 instalado.
+2. Clone o repositório:
+3. Execute o arquivo:
 
-### 📚 Aprendizados
-Neste projeto foram praticados:
-- Entrada de dados com input()
-- Conversão de tipos (float)
-- Operações matemáticas
-- Formatação de números com f-strings
-- Estrutura básica de um programa Python
+---
 
-### 📌 Versão
-- v1.2 — Adiciona tratamento de erro e validação de valores
+### 🛠 Tecnologias
+- Python 3.x
